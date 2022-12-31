@@ -1,0 +1,11 @@
+[href^="http"] {
+    color: red;
+}
+
+ul.list>li:last-child {
+    background: green;
+}
+
+ul+p {
+    font: size 26px;
+}
